@@ -13,7 +13,7 @@ redimentionFen = function () {
 
 var position = 0;
 var msg =
-  "Lucie et Ruben  t'invitent  à leurs  anniversaires et baptême qui ce tiendra le 04/07/2021 à l'eglise de Breal sous Monfort à 10h30 et à la sale Pierre Jakez Helias plus tard ca va être la Chimamelure 👻! ...  ";
+  "Lucie et Ruben  t'invitent  à leurs  anniversaires et baptême qui ce tiendra le 04/07/2021 à l'eglise de Breal sous Monfort à 11h00 et à la sale Pierre Jakez Helias plus tard ca va être la Chimamelure 👻! ...  ";
 var msg = " " + msg;
 var long = msg.length;
 var fois = 76 / msg.length + 1;
