@@ -120,6 +120,10 @@ form input {
   top: 46%;
   left: 44%;
 }
+.rule p {
+  font-size: 0.93em;
+}
+
 .flute img {
   border: solid 2px gray;
   border-radius: 10px;
